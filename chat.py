@@ -7,7 +7,7 @@ from langchain_classic.chains.combine_documents import create_stuff_documents_ch
 from langchain_core.prompts import ChatPromptTemplate
 
 # 1. SETUP: Your API Key
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "API KEY"
 
 print("Loading the policy database...")
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
