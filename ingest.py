@@ -9,7 +9,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # --- 1. CONFIGURATION ---
 # Replace with your actual Llama Cloud API Key
-os.environ["LLAMA_CLOUD_API_KEY"] = "Yllx-XQFyZquQNm2f38x51QhtvKCxtLVW52CYMzIpcCd9WNPwKz7e"
+os.environ["LLAMA_CLOUD_API_KEY"] = "API KEY"
 
 # Update these paths as needed
 folder_path = r"C:\Users\USER\Documents\FLAMONG\Policy Project\PolicyDocs"
