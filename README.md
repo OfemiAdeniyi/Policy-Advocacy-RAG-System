@@ -89,5 +89,4 @@ python chat.py
 ## 👨‍💻 Author
 
 Micheal Adeniyi  
-Data & AI Engineer | HealthTech Innovator  
-GitHub: https://github.com/OfemiAdeniyi
+Data & AI Engineer  
